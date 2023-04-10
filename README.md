@@ -1,16 +1,23 @@
-# daily_tracker
+## Daily Tracker
 
-A new Flutter project.
+My new Flutter project.
 
-## Getting Started
+# Use
 
-This project is a starting point for a Flutter application.
+Daily tracker is an app developeed for tracking our daily activities. it can also be used to store the upcomming works.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230410-174439](https://user-images.githubusercontent.com/83030919/230914321-e00ba623-4bee-4820-afc2-86349116bf3f.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# How to use
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Click on the bottom round button to add new items to the list. Upon clicking, an alert window will be displayed where you can add new items. And then click enter.
+Once a new item is added then it can be removed by sliding that particular item to either of the side.
+
+# Further updates
+
+I look forward to add more features to this app. 
+Some of the features to be added are:
+  
+   _Date and time specifications for upcoming tasks,_
+   _Running timer for scheduled activities,_
+   _Notification and so on._

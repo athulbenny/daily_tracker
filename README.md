@@ -10,8 +10,8 @@ Daily tracker is an app developeed for tracking our daily activities. it can als
 
 # How to use
 
-Click on the bottom round button to add new items to the list. Upon clicking, an alert window will be displayed where you can add new items. And then click enter.
-Once a new item is added then it can be removed by sliding that particular item to either of the side.
+Click on the bottom round button to add new items to the list. Upon clicking, an alert window will be displayed where you can add new items. And then click "enter".
+Once a new item is added, it can be removed by swiping that particular item to either of the side.
 
 # Further updates
 
